@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "F:\\kuliah\\Akprind\\AndroidStudio\\Fragment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]
